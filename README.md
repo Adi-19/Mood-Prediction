@@ -29,9 +29,5 @@ The model will try to cluster the songs based on their features into different g
     1) Classification Algorithms : Bagging classifier, Random Forest and ensemble.voting classifier
     2) Clustering Algorithm : K means 
     3)  Normalization : Principal Component Analysis
-    
-  # Contributors:
-
-    Team Members: Devanshi Goel, G S Nithyashree , Janhavi Soni, Sai Pravallika Myneni
 
     
